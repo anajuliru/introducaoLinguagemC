@@ -18,6 +18,9 @@
     <ClCompile Include="codigo\ativVetores1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="codigo\ativVetoresQues3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="codigo\README.md" />

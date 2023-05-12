@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="codigo\ativVetores1.cpp" />
+    <ClCompile Include="codigo\ativVetoresQues3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="codigo\README.md" />

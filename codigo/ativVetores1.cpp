@@ -1,6 +1,9 @@
+//Atividade vetores questao 2  03/05
+
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
+
 
 int main(void) {
     int I, A[8], B[8], mult;
